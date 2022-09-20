@@ -17,5 +17,7 @@ class MainActivity : AppCompatActivity() {
         // func 1
 
         // func 1  changes
+        
+        // other developer
     }
 }
